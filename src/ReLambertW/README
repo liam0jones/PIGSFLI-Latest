@@ -1,0 +1,5 @@
+For evaluating LambertW functions, we use the code by Remotion available at
+
+https://github.com/Remotion/ReLambertW.jl
+
+The code is licensed under the Mozilla Public License Version 2.0 which is included in the LICENCE_ReLambertW file.
